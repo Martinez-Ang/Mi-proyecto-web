@@ -1,2 +1,2 @@
-##archivo de mi proyecto web
-MRNTZ
+##archivo readme de mi proyecto web
+MRTNZ
